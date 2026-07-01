@@ -1,0 +1,22 @@
+
+1) Karta
+ - string NrKarty
+ - string Tytul
+ - Lista<Autor> Autorzy
+ ....
+2) Sygnatura
+
+3) Czytelnik
+
+4) Autor 
+
+5) Cena 
+
+6) Wypozyczenie
+
+
+Zidentyfikuj wszystkie klasy i właściowści 
+ze specyfikacji wymagań dla systemu bibliotecznego. 
+Zaimplementuj definicje klas.
+Stwórz przykładową instancję klasy 
+karta z uzupełnionymi właściwościami tak jak na rysunku

@@ -50,5 +50,8 @@
     <None Include="App.config" />
     <None Include="biblioteka.pdf" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Zadanie.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
