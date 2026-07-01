@@ -4,4 +4,5 @@
   <Project Path="P03KlasaKalkulator/P03KlasaKalkulator.csproj" />
   <Project Path="P04ZadanieKalkulator/P04ZadanieKalkulator.csproj" />
   <Project Path="P05ZadanieManagerTekstu/P05ZadanieManagerTekstu.csproj" />
+  <Project Path="P06ZadaniePogoda/P06ZadaniePogoda.csproj" />
 </Solution>
