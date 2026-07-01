@@ -22,3 +22,6 @@ Dodatkowe informacje
     Stworz inna klasę, która zwraca przykładowe temperatury dla wybranych miast 
     , aby umożliwić testowanie klasy ManagerPogody.
     Staraj się, aby Twoja implementacja była jak najbardziej modularna i łatwa do rozbudowy w przyszłości.
+
+Dla chętnych: Uzyj klasy webClient zeby pobrać aktualne dane pogodowe z publicznego API pogodowego,
+  np https://wttr.in/warszawa
