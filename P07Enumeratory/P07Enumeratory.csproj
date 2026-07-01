@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9551F8AD-57D6-49BC-8B39-121EFFA4EEB2}</ProjectGuid>
+    <ProjectGuid>{25C34F6F-9F7E-4E35-83A0-C9D83DF494E2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>P06ZadaniePogoda</RootNamespace>
-    <AssemblyName>P06ZadaniePogoda</AssemblyName>
+    <RootNamespace>P07Enumeratory</RootNamespace>
+    <AssemblyName>P07Enumeratory</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,16 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FakeTemperatureService.cs" />
     <Compile Include="ManagerPogody.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Zadanie.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
