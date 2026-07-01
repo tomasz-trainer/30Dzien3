@@ -24,4 +24,4 @@ Dodatkowe informacje
     Staraj się, aby Twoja implementacja była jak najbardziej modularna i łatwa do rozbudowy w przyszłości.
 
 Dla chętnych: Uzyj klasy webClient zeby pobrać aktualne dane pogodowe z publicznego API pogodowego,
-  np https://wttr.in/warszawa
+  np https://wttr.in/warszawa?format=%t
