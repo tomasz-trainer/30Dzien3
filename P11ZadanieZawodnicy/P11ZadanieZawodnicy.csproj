@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E48558D5-B900-4511-AB1B-FC478E508B48}</ProjectGuid>
+    <ProjectGuid>{6AB94B2F-2D31-4DC0-B6AF-BC52993B36AA}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>P10ZadanieBiblioteka</RootNamespace>
-    <AssemblyName>P10ZadanieBiblioteka</AssemblyName>
+    <RootNamespace>P11ZadanieZawodnicy.txt</RootNamespace>
+    <AssemblyName>P11ZadanieZawodnicy.txt</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,21 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Autor.cs" />
-    <Compile Include="Cena.cs" />
-    <Compile Include="Czytelnik.cs" />
-    <Compile Include="Karta.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Sygnatura.cs" />
-    <Compile Include="Wypozyczenie.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="biblioteka.pdf" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Zadanie.txt" />
+    <Content Include="Zawodnicy.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

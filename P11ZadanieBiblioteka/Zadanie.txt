@@ -3,20 +3,38 @@
  - string NrKarty
  - string Tytul
  - Lista<Autor> Autorzy
- ....
+ - int Wydanie
+ - Karta Nastepne
+ - Karta Poprzednie
+ - Lista<Sygnatury> Sygnatury 
 2) Sygnatura
-
+ - int NrSygnatury
+ - string Komentarz
+ - bool Aktywna
+ - DateTime DataZakupu 
+ - Cena Cena
+ - List<Wypozyczenie> Wypozyczenia
 3) Czytelnik
-
+ - string NrKarty
+ - string Imie
+ - string Nazwisko 
 4) Autor 
-
+ - string Imie
+ - string Nazwisko
+ - string DrugieImie
 5) Cena 
-
+ - double WlasciwaCena
+ - string Komentarz 
 6) Wypozyczenie
-
+ - Czytelnik Czytelnik
+ - DateTime DataWypozyczenia
+ - DateTime PrzewidywanaDataZwrotu
+ - DateTime RzeczywistaDataZwrotu
+ - string Uwagi 
 
 Zidentyfikuj wszystkie klasy i właściowści 
 ze specyfikacji wymagań dla systemu bibliotecznego. 
 Zaimplementuj definicje klas.
 Stwórz przykładową instancję klasy 
 karta z uzupełnionymi właściwościami tak jak na rysunku
+

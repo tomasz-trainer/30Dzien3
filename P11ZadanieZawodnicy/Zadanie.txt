@@ -1,0 +1,3 @@
+
+Z plik Zawodnicy.txt wczytaj dane zawodników i zapisz je do listy obiektów klasy Zawodnik.
+Następnie wyświetl listę zawodników w konsoli.
