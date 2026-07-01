@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace P05ZadanieManagerTekstu
 {
     internal class ManagerTekstu
-    { //
+    { // d
         public string ZnajdzNajdluzszyWyraz(string zdanie)
         {
             if (zdanie.Length < 1)
