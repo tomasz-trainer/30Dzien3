@@ -6,6 +6,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+// przerwa do godz 13:15 
+
 namespace P07Enumeratory
 {
     internal class Program

@@ -6,4 +6,5 @@
   <Project Path="P05ZadanieManagerTekstu/P05ZadanieManagerTekstu.csproj" />
   <Project Path="P06ZadaniePogoda/P06ZadaniePogoda.csproj" />
   <Project Path="P07Enumeratory/P07Enumeratory.csproj" />
+  <Project Path="P08Wlasciwosci/P08Wlasciwosci.csproj" />
 </Solution>
