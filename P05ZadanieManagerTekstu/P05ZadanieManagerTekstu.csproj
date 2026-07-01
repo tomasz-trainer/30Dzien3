@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FC5AE524-5F1C-427D-9860-3EC23727B0FE}</ProjectGuid>
+    <ProjectGuid>{F419269B-09D7-481C-AAFA-3D0DC8F9F0A8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>P04ZadanieKalkulator</RootNamespace>
-    <AssemblyName>P04ZadanieKalkulator</AssemblyName>
+    <RootNamespace>P05ZadanieManagerTekstu</RootNamespace>
+    <AssemblyName>P05ZadanieManagerTekstu</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Kalkulator.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
