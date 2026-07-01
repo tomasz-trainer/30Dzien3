@@ -2,4 +2,5 @@
   <Project Path="P01TypyZmiennych/P01TypyZmiennych.csproj" />
   <Project Path="P02WlasneKlasy/P02WlasneKlasy.csproj" />
   <Project Path="P03KlasaKalkulator/P03KlasaKalkulator.csproj" />
+  <Project Path="P04ZadanieKalkulator/P04ZadanieKalkulator.csproj" />
 </Solution>

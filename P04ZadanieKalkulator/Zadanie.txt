@@ -1,0 +1,22 @@
+Stwórz klasę Kalkulator, która udostępnia metodę pozwalającą na zrealizowanie tego zadania 
+(dodanie, odejmowanie, możenie i dzielenie)
+
+public double WykonajDzialanie(int a, int b, char znak) 
+ {
+ }
+
+ oraz 
+
+ //złożone: z pierwsza cyfra , operator i druga cyfra  
+ public double WykonajDzialanie(string rownanie) 
+ {
+	
+ }
+
+ np: "4+7"
+
+ Uwagi:
+
+    W przypadku dzielenia przez zero, metody powinny zwracać wartość Double.NaN.
+    Metody powinny być zdolne do obsługi błędów i zwracać stosowne komunikaty w przypadku 
+    nieprawidłowego wprowadzenia danych.
