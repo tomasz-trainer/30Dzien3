@@ -11,18 +11,7 @@ namespace P06ZadaniePogoda
     {
         static void Main(string[] args)
         {
-            string url = $"https://wttr.in/{"warszawa"}?format=%t";
-
-            using (WebClient client = new WebClient())
-            {
-                string odpowiedz = client.DownloadString(url);
-                // odpowiedź wygląda np. tak: "+18°C"
-                string liczba = odpowiedz.Replace("+", "").Replace("-", "-")
-                                         .Replace("°C", "").Trim();
-                double tempCelsjusz = double.Parse(liczba);
-
-                
-            }
+           
         }
     }
 }
