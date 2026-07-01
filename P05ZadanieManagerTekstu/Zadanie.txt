@@ -5,7 +5,8 @@ Podstawowe zadanie:
     Wczytanie zdania: Klasa powinna udostępniać funkcjonalność wczytania dowolnego zdania. 
     Na przykład, zdanie może wyglądać tak: "Ala ma kota".
 
-    Znalezienie najdłuższego wyrazu: Na podstawie wczytanego zdania, klasa powinna być w stanie zwrócić najdłuższy wyraz
+    Znalezienie najdłuższego wyrazu: Na podstawie wczytanego zdania, klasa powinna być w stanie zwrócić
+    najdłuższy wyraz
     w zdaniu.
 
     Obsługa błędów: W przypadku, gdy wczytane zdanie nie zawiera żadnego wyrazu 
@@ -14,5 +15,6 @@ Podstawowe zadanie:
 Rozszerzenie:
 
     Wyszukiwanie wielu najdłuższych wyrazów: Klasa powinna zostać rozszerzona o funkcjonalność, 
-    która pozwoli na zwrócenie wszystkich najdłuższych wyrazów w przypadku, gdy takich wyrazów jest więcej niż jeden.
+    która pozwoli na zwrócenie wszystkich najdłuższych wyrazów w przypadku, gdy takich wyrazów jest więcej niż 
+    jeden.
     Zaimplementuj klasę ManagerTekstu tak, aby spełniała wszystkie wymagania opisane powyżej.
